@@ -1,6 +1,4 @@
-Oto sformatowana wersja README w stylu Markdown, gotowa do użycia w repozytorium Git:
 
-```markdown
 # CV Kryspin Kuc
 
 To jest projekt C# dla mojego CV, które można uruchomić w terminalu. Poniżej znajdziesz instrukcje dotyczące uruchomienia projektu w systemie Windows, Linux i macOS.
