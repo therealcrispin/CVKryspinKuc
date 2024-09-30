@@ -9,14 +9,11 @@ To jest aplikacja napisana w C#, która wyświetla moje CV w terminalu. Możesz 
 Aby uruchomić aplikację, wykonaj poniższe kroki:
 
 1. **Pobierz kod**: Pobierz repozytorium na swój komputer lub sklonuj je za pomocą poniższego polecenia:
-
-
+git clone https://github.com/therealcrispin/CVKryspinKuc.git
 2. **Przejdź do folderu projektu**: Otwórz terminal i przejdź do folderu, w którym znajduje się projekt:
-
-
+cd CVKryspinKuc
 3. **Uruchom aplikację**: Użyj poniższego polecenia, aby uruchomić aplikację w terminalu:
-
-
+dotnet run
 Po uruchomieniu aplikacji zobaczysz swoje CV wyświetlone w terminalu.
 
 ## Wymagania
