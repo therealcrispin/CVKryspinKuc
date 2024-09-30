@@ -14,7 +14,7 @@ git clone https://github.com/therealcrispin/CVKryspinKuc.git
 
 2. **Przejdź do folderu projektu**: Otwórz terminal i przejdź do folderu, w którym znajduje się projekt:
 
-cd CVKryspinKuc
+cd CV_Kryspin_Kuc
 
 3. **Uruchom aplikację**: Użyj poniższego polecenia, aby uruchomić aplikację w terminalu:
 
