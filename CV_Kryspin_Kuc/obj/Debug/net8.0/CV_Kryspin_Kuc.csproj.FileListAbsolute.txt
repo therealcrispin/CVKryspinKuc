@@ -1,0 +1,14 @@
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/bin/Debug/net8.0/CV_Kryspin_Kuc
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/bin/Debug/net8.0/CV_Kryspin_Kuc.deps.json
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/bin/Debug/net8.0/CV_Kryspin_Kuc.runtimeconfig.json
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/bin/Debug/net8.0/CV_Kryspin_Kuc.dll
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/bin/Debug/net8.0/CV_Kryspin_Kuc.pdb
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/CV_Kryspin_Kuc.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/CV_Kryspin_Kuc.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/CV_Kryspin_Kuc.AssemblyInfo.cs
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/CV_Kryspin_Kuc.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/CV_Kryspin_Kuc.dll
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/refint/CV_Kryspin_Kuc.dll
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/CV_Kryspin_Kuc.pdb
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/CV_Kryspin_Kuc.genruntimeconfig.cache
+/workspaces/codespaces-blank/CV_Kryspin_Kuc/obj/Debug/net8.0/ref/CV_Kryspin_Kuc.dll
